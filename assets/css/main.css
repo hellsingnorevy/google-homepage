@@ -1,0 +1,48 @@
+#logo{
+	padding-bottom:10px;
+	height:100px;
+	padding-top:100px;
+	margin:auto;
+}
+
+#google{
+	display:block;
+	margin:auto;
+
+}
+
+#navbar li{
+	display:inline;
+	padding-left: 10px;
+}
+#navbar ul{
+	float:right;
+}
+#navbar {
+	padding-bottom:100px;
+	
+}
+
+#search{
+	margin:auto;
+	width:20%;
+}
+
+#inputsearch {
+	display:block;
+	margin:auto;
+	width:100%;
+}
+#buttons{
+	margin-top: 20px;
+	text-align: center;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
